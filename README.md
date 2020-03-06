@@ -1,0 +1,1 @@
+# have_cpp_call_fortran
